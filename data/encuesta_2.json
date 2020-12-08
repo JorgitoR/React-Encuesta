@@ -1,0 +1,19 @@
+[
+    {
+      "page": 1,
+      "required": true,
+      "name" : "full_name",
+      "type" : "text",
+      "placeholder" : "Tu Nombre completo"
+    },
+    {
+      "page":1,
+      "required": true,
+      "name" : "email",
+      "type" : "email",
+      "placeholder" : "Tu Nombre completo"
+    }
+
+
+]
+

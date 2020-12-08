@@ -1,0 +1,87 @@
+[
+    {
+      "page": 1,
+      "required": true,
+      "name" : "full_name",
+      "type" : "text",
+      "placeholder" : "Tu Nombre completo"
+    },
+    {
+      "page":2,
+      "required": true,
+      "name" : "email",
+      "type" : "email",
+      "placeholder" : "Tu Nombre completo"
+    },
+    {
+      "page":3,
+      "required": true,
+      "name" : "message",
+      "type" : "textarea",
+      "placeholder" : "Tu Nombre completo"
+    },
+    {
+      "page":4,
+      "name" : "mySingleChoice",
+      "type" : "radio",
+      "options" : [
+            {
+              "value": 1,
+              "label": "Label 1"
+            },
+            {
+              "value": "abc",
+              "label": "Label abc"
+            },
+            {
+              "value": "123",
+              "label": "Label 123"
+            }
+      ]
+
+    },
+
+    {
+      "page":4,
+      "name" : "Selecionar",
+      "type" : "select",
+      "options" : [
+            {
+              "value": 1,
+              "label": "Label 1"
+            },
+            {
+              "value": "abc",
+              "label": "Label abc"
+            },
+            {
+              "value": "123",
+              "label": "Label 123"
+            }
+      ]
+
+    },
+    {
+      "name" : "Selecionar",
+      "type" : "select",
+      "multiple": true,
+      "options" : [
+            {
+              "value": 1,
+              "label": "Label 1"
+            },
+            {
+              "value": "abc",
+              "label": "Label abc"
+            },
+            {
+              "value": "123",
+              "label": "Label 123"
+            }
+      ]
+
+    }
+
+
+]
+
